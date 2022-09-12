@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm a software developer.
+I'm passionate about web development, learning & video games.
+
+Please take a look at my personal website <a href="https://synthetic-borealis.github.io/" target="_blank" rel="noreferrer">here</a>.
+
+### I'm currently working on 🌱:
+- __Hirnfick__ - an open-source Brainf**k compiler for Node.js and web browsers. [Repository](https://github.com/synthetic-borealis/hirnfick.js/) | [NPM](https://www.npmjs.com/package/hirnfick)
+- Check out my repositories to see more projects I'm working on.
 
 <!--
 **synthetic-borealis/synthetic-borealis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
