@@ -5,7 +5,7 @@ Please take a look at my personal website <a href="https://synthetic-borealis.gi
 
 ### I'm currently working on 🌱:
 - __Hirnfick__ - an open-source Brainf**k compiler for Node.js and web browsers __(<a href="https://github.com/synthetic-borealis/hirnfick.js/" target="_blank">Repository</a> | <a href="https://www.npmjs.com/package/hirnfick" target="_blank" rel="noreferrer">NPM</a>)__.
-- Check out my repositories to see more projects I'm working on.
+- Check out my repositories to see other projects I'm working on.
 
 <!--
 **synthetic-borealis/synthetic-borealis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
